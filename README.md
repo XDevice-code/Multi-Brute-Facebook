@@ -1,2 +1,2 @@
 # My-MBF
-This repo created with use recode
+This repo is created with use recode
